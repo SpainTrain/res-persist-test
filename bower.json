@@ -1,0 +1,16 @@
+{
+  "name": "res-persist-test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/SpainTrain/res-persist-test",
+  "authors": [
+    "Mike Spainhower <michael@personal.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
